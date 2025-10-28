@@ -1,0 +1,26 @@
+server:
+  host: "0.0.0.0"
+  port: "8080"
+  secretKey: "panchovilla"
+
+puestos:
+- id: 1
+  agencyBranch: '21906'
+  agencyCode: '60485'
+  workstation: '90764'
+- id: 2
+  agencyBranch: '93794'
+  agencyCode: '99612'
+  workstation: '56487'
+- id: 3
+  agencyBranch: '26256'
+  agencyCode: '38071'
+  workstation: '50727'
+- id: 4
+  agencyBranch: '87871'
+  agencyCode: '01374'
+  workstation: '28328'
+- id: 5
+  agencyBranch: '91850'
+  agencyCode: '64573'
+  workstation: '19437'

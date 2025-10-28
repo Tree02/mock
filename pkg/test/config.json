@@ -1,0 +1,39 @@
+{
+    "server": {
+      "host": "0.0.0.0",
+      "port": "8080",
+      "secretKey": "asdasdasd"
+    },
+    "puestos": [
+      {
+        "id": 1,
+        "agencyBranch": "12345",
+        "agencyCode": "67890",
+        "workstation": "11111"
+      },
+      {
+        "id": 2,
+        "agencyBranch": "54321",
+        "agencyCode": "09876",
+        "workstation": "22222"
+      },
+      {
+        "id": 3,
+        "agencyBranch": "56789",
+        "agencyCode": "12340",
+        "workstation": "33333"
+      },
+      {
+        "id": 4,
+        "agencyBranch": "98765",
+        "agencyCode": "43210",
+        "workstation": "44444"
+      },
+      {
+        "id": 5,
+        "agencyBranch": "24680",
+        "agencyCode": "13579",
+        "workstation": "55555"
+      }
+    ]
+}
